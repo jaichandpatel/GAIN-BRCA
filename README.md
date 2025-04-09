@@ -2,10 +2,10 @@
 
 ## Overview
 
-•	GAIN-BRCA leverages multi-omics datasets to classify TCGA breast cancer subtypes based on PAM50.
-•	The framework integrates gene expression, DNA methylation, and microRNA data by utilizing their biological interactions. 
-•	Specifically, it considers the regulatory relationships where gene expression is influenced by methylation and miRNA interactions. 
-•	This graph-based explainable AI framework combines these interactions for improved multi-omics integration and prediction.
+  ### •	GAIN-BRCA leverages multi-omics datasets to classify TCGA breast cancer subtypes based on PAM50.
+  ### •	The framework integrates gene expression, DNA methylation, and microRNA data by utilizing their biological interactions. 
+  ### •	Specifically, it considers the regulatory relationships where gene expression is influenced by methylation and miRNA interactions. 
+  ### •	This graph-based explainable AI framework combines these interactions for improved multi-omics integration and prediction.
 
 ## GAIN-BRCA Workflow
 
@@ -37,7 +37,7 @@ Clone this repository or download the source code files.
 2.	Prepare the Input Data:
 Place the breast cancer multi-omics datasets in the dataset/Input/ folder.
 The required files are:
-  ### o	mRNA_NormCount.csv
+  #### o	mRNA_NormCount.csv
   ### o	miRNA_NormCount.csv
   ### o	methyl_NormBeta.csv
   ### o	miRNA_mRNA_interaction.csv

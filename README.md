@@ -13,8 +13,9 @@
 ![image](https://github.com/user-attachments/assets/f7a5bedb-94e3-47f9-bc6e-584084d4704a)
 
 
-!!bash
+
 ## File Structure
+!!bash
 GAIN-BRCA/ ├── GAIN_BRCA.py
 └── dataset/ 
 └── Input/ 

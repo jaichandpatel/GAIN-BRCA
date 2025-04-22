@@ -15,7 +15,8 @@
 
 
 ## File Structure
-!bash GAIN-BRCA/ ├── GAIN_BRCA.py
+!bash
+GAIN-BRCA/ ├── GAIN_BRCA.py
 └── dataset/ 
 └── Input/ 
 ├── mRNA_NormCount.csv 

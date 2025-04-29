@@ -26,7 +26,14 @@
 <a name="workflow"></a>
 ## Workflow
 
-![image](https://github.com/user-attachments/assets/f7a5bedb-94e3-47f9-bc6e-584084d4704a)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f7a5bedb-94e3-47f9-bc6e-584084d4704a" width="600" />
+</p>
+
+<p align="center">
+  <em>Figure: GAIN-BRCA analysis pipeline.</em>
+</p>
+
 *Figure: GAIN-BRCA analysis pipeline.*
 
 <a name="file-structure"></a>
